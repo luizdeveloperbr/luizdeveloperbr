@@ -1,33 +1,20 @@
-Hi 👋 My name is Eduardo Souza
-==============================
-
-JavaScript Developer
---------------------
-
-* 🧠  I'm learning React, TypeScript
-
-### Skills
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-</p>
+<h1 align="center">Olá 👋, Sou o Luiz Eduardo</h1>
+<h3 align="center">Web Developer - JavaScript</h3>
 
 
-### Socials
+- 🔭 Atualmente estou trabalhando em [Loja Virtual 64 Games](https://github.com/Projeto-Integrador-D-House/Loja-Virtual)
 
-<p align="left"> <a href="https://www.github.com/luizdeveloperbr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+- 🌱 no momento estou aprendendo **TypeScript**
 
-### Badges
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://luizdeveloperbr.github.io](https://luizdeveloperbr.github.io)
 
-<a href="https://github.com/luizdeveloperbr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizdeveloperbr&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+- 💬 Pergunte-me sobre **Blockchain**
 
-<b>Top Repositories</b>
+- 📄 Conheça minhas experiências [https://linktr.ee/luizdeveloperbr](https://linktr.ee/luizdeveloperbr)
 
-<div width="100%" align="center"><a href="https://github.com/luizdeveloperbr/vue-neutrino" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=luizdeveloperbr&repo=vue-neutrino&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+- ⚡ Fato engraçado **de alguma forma a conversa vai chegar em Astronomia**
+
+<!-- ![luizeduardo](https://github-readme-streak-stats.herokuapp.com/?user=luizdeveloperbr&locale=pt-br&mode=weekly) -->
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs?username=luizdeveloperbr&show_icons=true&locale=pt-br&layout=compact)
+<!-- ![trophys](https://github-profile-trophy.vercel.app/?username=luizdeveloperbr&title=Repositories,Commits&margin-w=4) -->
