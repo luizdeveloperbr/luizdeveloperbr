@@ -14,7 +14,4 @@
 
 - ⚡ Fato engraçado **de alguma forma a conversa vai chegar em Astronomia**
 
-<!-- ![luizeduardo](https://github-readme-streak-stats.herokuapp.com/?user=luizdeveloperbr&locale=pt-br&mode=weekly) -->
-
-![languages](https://github-readme-stats.vercel.app/api/top-langs?username=luizdeveloperbr&show_icons=true&locale=pt-br&layout=compact)
-<!-- ![trophys](https://github-profile-trophy.vercel.app/?username=luizdeveloperbr&title=Repositories,Commits&margin-w=4) -->
+![metrics](/github-metrics.svg)
