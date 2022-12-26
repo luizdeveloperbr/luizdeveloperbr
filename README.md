@@ -2,8 +2,6 @@
 <h3 align="center">Web Developer - JavaScript</h3>
 
 
-- 🔭 Atualmente estou trabalhando em [Loja Virtual 64 Games](https://github.com/Projeto-Integrador-D-House/Loja-Virtual)
-
 - 🌱 no momento estou aprendendo **TypeScript**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://luizdeveloperbr.github.io](https://luizdeveloperbr.github.io)
