@@ -27,7 +27,7 @@ jobs:
           # Options
           user: luizdeveloperbr
           template: classic
-          base: activity, repositories, metadata
+          base: header, activity, repositories, metadata
           base_hireable: yes
           config_timezone: America/Belem
           plugin_habits: yes
