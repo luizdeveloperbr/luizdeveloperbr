@@ -30,6 +30,8 @@ jobs:
           base: header, activity, repositories, metadata
           base_hireable: yes
           config_timezone: America/Belem
+          plugin_repositories: yes
+          plugin_repositories_featured: luizdeveloperbr/STS, luizdeveloperbr/Loja-Virtual
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_days: 7
