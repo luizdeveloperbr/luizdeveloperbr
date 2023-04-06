@@ -4,12 +4,26 @@
 
 - 🌱 no momento estou aprendendo **TypeScript**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://luizdeveloperbr.github.io](https://luizdeveloperbr.github.io)
+- 👨‍💻 Todos os meus projetos estão disponíveis em - ([Portifolio](https://luizdeveloperbr.github.io))
 
 - 💬 Pergunte-me sobre **Blockchain**
 
-- 📄 Conheça minhas experiências [https://linktr.ee/luizdeveloperbr](https://linktr.ee/luizdeveloperbr)
+- 📄 Conheça minhas experiências - ([Links](https://linktr.ee/luizdeveloperbr))
 
 - ⚡ Fato engraçado **de alguma forma a conversa vai chegar em Astronomia**
 
+### principais projetos
+
+| backend | frontend | fullstack |
+|---|---|---|
+| [api-gl]() | [sierrasts.com]() | [meucontro]() |
+||sierrasengen||
+|movemob-b|movemob-f|movemob|
+
+
+
+<details>
+<summary>Estatiscas</summary>
+
 ![metrics](/github-metrics.svg)
+</details>
