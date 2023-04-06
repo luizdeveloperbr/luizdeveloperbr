@@ -16,14 +16,13 @@
 
 | backend | frontend | fullstack |
 |---|---|---|
-| [api-gl]() | [sierrasts.com]() | [meucontro]() |
-||sierrasengen||
-|movemob-b|movemob-f|movemob|
+| [api-gl]() | [sierrasts.com](https://sierrasts.com) | [https://meucontroledevendas.net](https://meucontroledevendas.net) |
+||[sierrasengenharia.com.br](https://sierrasengenharia.com.br)||
+|[movemob-backend](https://github.com/luizdeveloperbr/movemob.app-backend)|[movemob-front](https://github.com/luizdeveloperbr/movemob.app-frontend)|[movemob.app](https://movemob-app.vercel.app/)|
 
 
 
 <details>
 <summary>Estatiscas</summary>
-
 ![metrics](/github-metrics.svg)
 </details>
